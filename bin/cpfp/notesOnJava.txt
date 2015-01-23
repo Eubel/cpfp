@@ -1,0 +1,5 @@
+If this would be c# i could use:
+- LINQ --> java 8 can now do this...
+- Properties
+- Extention Methods
+- Operator overloading
